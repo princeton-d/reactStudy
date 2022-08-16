@@ -1,0 +1,234 @@
+{
+  "response": {
+    "header": { "resultCode": "00", "resultMsg": "NORMAL SERVICE." },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "arrTime": 0,
+            "dailyTypeCode": "01",
+            "depTime": "052100",
+            "endSubwayStationId": "MTRKR1P157-1",
+            "endSubwayStationNm": "서동탄",
+            "subwayRouteId": "MTRS11",
+            "subwayStationId": "MTRS11133",
+            "subwayStationNm": "서울역",
+            "upDownTypeCode": "D"
+          },
+          {
+            "arrTime": "000000",
+            "dailyTypeCode": "01",
+            "depTime": "000030",
+            "endSubwayStationId": "MTRKR1141",
+            "endSubwayStationNm": "구로",
+            "subwayRouteId": "MTRS11",
+            "subwayStationId": "MTRS11133",
+            "subwayStationNm": "서울역",
+            "upDownTypeCode": "D"
+          },
+          {
+            "arrTime": "001030",
+            "dailyTypeCode": "01",
+            "depTime": "001100",
+            "endSubwayStationId": "MTRKR1141",
+            "endSubwayStationNm": "구로",
+            "subwayRouteId": "MTRS11",
+            "subwayStationId": "MTRS11133",
+            "subwayStationNm": "서울역",
+            "upDownTypeCode": "D"
+          },
+          {
+            "arrTime": "002300",
+            "dailyTypeCode": "01",
+            "depTime": 0,
+            "endSubwayStationId": "MTRS11133",
+            "endSubwayStationNm": "서울역",
+            "subwayRouteId": "MTRS11",
+            "subwayStationId": "MTRS11133",
+            "subwayStationNm": "서울역",
+            "upDownTypeCode": "D"
+          },
+          {
+            "arrTime": "003900",
+            "dailyTypeCode": "01",
+            "depTime": 0,
+            "endSubwayStationId": "MTRS11133",
+            "endSubwayStationNm": "서울역",
+            "subwayRouteId": "MTRS11",
+            "subwayStationId": "MTRS11133",
+            "subwayStationNm": "서울역",
+            "upDownTypeCode": "D"
+          },
+          {
+            "arrTime": "010000",
+            "dailyTypeCode": "01",
+            "depTime": 0,
+            "endSubwayStationId": "MTRS11133",
+            "endSubwayStationNm": "서울역",
+            "subwayRouteId": "MTRS11",
+            "subwayStationId": "MTRS11133",
+            "subwayStationNm": "서울역",
+            "upDownTypeCode": "D"
+          },
+          {
+            "arrTime": "052930",
+            "dailyTypeCode": "01",
+            "depTime": "053000",
+            "endSubwayStationId": "MTRKR1161",
+            "endSubwayStationNm": "인천",
+            "subwayRouteId": "MTRS11",
+            "subwayStationId": "MTRS11133",
+            "subwayStationNm": "서울역",
+            "upDownTypeCode": "D"
+          },
+          {
+            "arrTime": "053500",
+            "dailyTypeCode": "01",
+            "depTime": "053530",
+            "endSubwayStationId": "MTRKR1161",
+            "endSubwayStationNm": "인천",
+            "subwayRouteId": "MTRS11",
+            "subwayStationId": "MTRS11133",
+            "subwayStationNm": "서울역",
+            "upDownTypeCode": "D"
+          },
+          {
+            "arrTime": "054100",
+            "dailyTypeCode": "01",
+            "depTime": "054130",
+            "endSubwayStationId": "MTRKR1161",
+            "endSubwayStationNm": "인천",
+            "subwayRouteId": "MTRS11",
+            "subwayStationId": "MTRS11133",
+            "subwayStationNm": "서울역",
+            "upDownTypeCode": "D"
+          },
+          {
+            "arrTime": "054500",
+            "dailyTypeCode": "01",
+            "depTime": "054530",
+            "endSubwayStationId": "MTRKR1P157-1",
+            "endSubwayStationNm": "서동탄",
+            "subwayRouteId": "MTRS11",
+            "subwayStationId": "MTRS11133",
+            "subwayStationNm": "서울역",
+            "upDownTypeCode": "D"
+          },
+          {
+            "arrTime": "054900",
+            "dailyTypeCode": "01",
+            "depTime": "054930",
+            "endSubwayStationId": "MTRKR1161",
+            "endSubwayStationNm": "인천",
+            "subwayRouteId": "MTRS11",
+            "subwayStationId": "MTRS11133",
+            "subwayStationNm": "서울역",
+            "upDownTypeCode": "D"
+          },
+          {
+            "arrTime": "055330",
+            "dailyTypeCode": "01",
+            "depTime": "055400",
+            "endSubwayStationId": "MTRKR1P157-1",
+            "endSubwayStationNm": "서동탄",
+            "subwayRouteId": "MTRS11",
+            "subwayStationId": "MTRS11133",
+            "subwayStationNm": "서울역",
+            "upDownTypeCode": "D"
+          },
+          {
+            "arrTime": "055800",
+            "dailyTypeCode": "01",
+            "depTime": "055830",
+            "endSubwayStationId": "MTRKR1161",
+            "endSubwayStationNm": "인천",
+            "subwayRouteId": "MTRS11",
+            "subwayStationId": "MTRS11133",
+            "subwayStationNm": "서울역",
+            "upDownTypeCode": "D"
+          },
+          {
+            "arrTime": "060500",
+            "dailyTypeCode": "01",
+            "depTime": "060530",
+            "endSubwayStationId": "MTRKR1161",
+            "endSubwayStationNm": "인천",
+            "subwayRouteId": "MTRS11",
+            "subwayStationId": "MTRS11133",
+            "subwayStationNm": "서울역",
+            "upDownTypeCode": "D"
+          },
+          {
+            "arrTime": "061030",
+            "dailyTypeCode": "01",
+            "depTime": "061100",
+            "endSubwayStationId": "MTRKR1P157-1",
+            "endSubwayStationNm": "서동탄",
+            "subwayRouteId": "MTRS11",
+            "subwayStationId": "MTRS11133",
+            "subwayStationNm": "서울역",
+            "upDownTypeCode": "D"
+          },
+          {
+            "arrTime": "061700",
+            "dailyTypeCode": "01",
+            "depTime": "061730",
+            "endSubwayStationId": "MTRKR1161",
+            "endSubwayStationNm": "인천",
+            "subwayRouteId": "MTRS11",
+            "subwayStationId": "MTRS11133",
+            "subwayStationNm": "서울역",
+            "upDownTypeCode": "D"
+          },
+          {
+            "arrTime": "062300",
+            "dailyTypeCode": "01",
+            "depTime": "062330",
+            "endSubwayStationId": "MTRKR1161",
+            "endSubwayStationNm": "인천",
+            "subwayRouteId": "MTRS11",
+            "subwayStationId": "MTRS11133",
+            "subwayStationNm": "서울역",
+            "upDownTypeCode": "D"
+          },
+          {
+            "arrTime": "062730",
+            "dailyTypeCode": "01",
+            "depTime": "062800",
+            "endSubwayStationId": "MTRKR1P157-1",
+            "endSubwayStationNm": "서동탄",
+            "subwayRouteId": "MTRS11",
+            "subwayStationId": "MTRS11133",
+            "subwayStationNm": "서울역",
+            "upDownTypeCode": "D"
+          },
+          {
+            "arrTime": "063100",
+            "dailyTypeCode": "01",
+            "depTime": "063130",
+            "endSubwayStationId": "MTRKR1161",
+            "endSubwayStationNm": "인천",
+            "subwayRouteId": "MTRS11",
+            "subwayStationId": "MTRS11133",
+            "subwayStationNm": "서울역",
+            "upDownTypeCode": "D"
+          },
+          {
+            "arrTime": "063800",
+            "dailyTypeCode": "01",
+            "depTime": "063830",
+            "endSubwayStationId": "MTRKR1161",
+            "endSubwayStationNm": "인천",
+            "subwayRouteId": "MTRS11",
+            "subwayStationId": "MTRS11133",
+            "subwayStationNm": "서울역",
+            "upDownTypeCode": "D"
+          }
+        ]
+      },
+      "numOfRows": 20,
+      "pageNo": 1,
+      "totalCount": 257
+    }
+  }
+}
