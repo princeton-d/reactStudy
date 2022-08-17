@@ -6,7 +6,7 @@ function App() {
   const [rcp, setRcp] = useState([]);
   useEffect(() => {
     fetch(
-      'http://openapi.foodsafetykorea.go.kr/api/270e88abbdc241d4a5b7/COOKRCP01/json/1/100'
+      'http://openapi.foodsafetykorea.go.kr/api/270e88abbdc241d4a5b7/COOKRCP01/json/1/10'
     )
       .then((response) => response.json())
       .then((result) => setRcp(result.COOKRCP01.row))
