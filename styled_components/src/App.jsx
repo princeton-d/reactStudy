@@ -21,6 +21,25 @@ const AppBlock = styled.div`
   padding: 1rem;
 `;
 
+const Container = styled.div`
+  display: flex;
+`;
+
+const Buttoned = styled.button`
+  background: transparent;
+  border-radius: 3px;
+  border: 2px solid #3c5b69;
+  color: #b9eaff;
+  margin: 0 1em;
+  padding: 0.25em 1em;
+  ${(props) =>
+    props.primary &&
+    css`
+      background: #009cd5;
+      color: white;
+    `}
+`;
+
 function App() {
   return (
     <>
@@ -38,6 +57,10 @@ function App() {
           <Button>BUTTON</Button>
         </AppBlock>
       </ThemeProvider>
+      <Container>
+        <Buttoned>Normal Button</Buttoned>
+        <Buttoned primary>Primary Button</Buttoned>
+      </Container>
     </>
   );
 }
